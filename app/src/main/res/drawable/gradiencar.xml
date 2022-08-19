@@ -1,0 +1,10 @@
+<corners ?xml version="1.0" encoding="utf-8"?>
+<android:shape="rectangle">
+
+<gradient android:startColor="#FFAFBD"
+
+android:endColor="#FFC3A0"></gradient>
+<corners android:radius="10dp">
+
+</corners>
+</corners>
